@@ -1,0 +1,26 @@
+{
+  "name": "logo_builder",
+  "version": "1.0.0",
+  "description": "Free AI-powered logo builder",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.3",
+    "kd-tree-javascript": "^1.0.3",
+    "text-to-svg": "^3.1.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "echo 'Running on http://localhost:1234/' && node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marclave/logo_builder.git"
+  },
+  "author": "Marc Laventure",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marclave/logo_builder/issues"
+  },
+  "homepage": "https://github.com/marclave/logo_builder#readme"
+}
